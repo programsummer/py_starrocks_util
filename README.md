@@ -1,0 +1,2 @@
+# py_starrocks_util
+python实现通过StarRocks的StreamLoad导入CSV数据
